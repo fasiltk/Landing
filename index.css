@@ -1,0 +1,13 @@
+.navigation
+{
+    display: flex;
+    
+}
+li{
+    float: left;
+    padding: 30px;
+}
+ul
+{
+    list-style-type: none;
+}
